@@ -1,0 +1,41 @@
+body{
+    background-image:linear-gradient(rgb(247, 177, 247) , rgb(250, 179, 250) , rgb(230, 148, 255) , rgb(226, 132, 255));
+}
+
+h3{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 10px rgb(182, 6, 241);
+    background-color:rgb(239, 84, 239);
+    color:white;
+    border-radius:10px;
+    padding:20px;
+}
+
+.note{
+    font-size:15px;
+    color:white;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:blueviolet;
+    line-height:3;
+    text-align:center;
+}
+
+canvas{
+    border:5px solid palevioletred;
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(145, 36, 200);
+}
+
+video{
+    border:5px solid palevioletred;
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(145, 36, 200);
+}
